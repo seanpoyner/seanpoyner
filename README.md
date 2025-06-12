@@ -1,4 +1,4 @@
-# Hello there! I'm Sean 👋. 
+# Hello there! I'm Sean👋
 
 ## 🚀 About Me
 I'm a developer passionate about AI, machine learning, and building innovative solutions with cutting-edge technologies. My work focuses on developing practical AI implementations, from edge deployments to efficient agent systems.
