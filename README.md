@@ -9,21 +9,30 @@ I'm a developer passionate about AI, machine learning, and building innovative s
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-2C2C2E?style=for-the-badge&logo=electron&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white)
 
 ### AI/ML Technologies
+![RAG](https://img.shields.io/badge/RAG-FF4B4B?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-FFD700?style=for-the-badge)
+![Agents](https://img.shields.io/badge/Agents-32CD32?style=for-the-badge)
+![NeMo](https://img.shields.io/badge/NeMo-00BFFF?style=for-the-badge)
+![Guardrails](https://img.shields.io/badge/Guardrails-FF4500?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-00CED1?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3A4B?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7E4798?style=for-the-badge)
 ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-FF4B4B?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-00CED1?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-4B0082?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 ### Cloud & DevOps
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -33,6 +42,8 @@ I'm a developer passionate about AI, machine learning, and building innovative s
 ### Data & Databases
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector_DB-7E4798?style=for-the-badge)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -47,10 +58,10 @@ I'm a developer passionate about AI, machine learning, and building innovative s
 Taking AGI down to A-child-I - developing an AI brain by understanding human brain development. This project aims to create practical AI for edge device deployments with efficient power consumption.
 
 ### 🤖 MCP (Model Context Protocol) Ecosystem
+- **[Gradio MCP Playground](https://github.com/seanpoyner/gradio-mcp-playground)** - Interactive UI for MCP experiments
 - **[Claude Desktop MCP Playground](https://github.com/seanpoyner/claude-desktop-mcp-playground)** - Exploring MCP integrations with Claude Desktop
 - **[MCP Tiny Agents](https://github.com/seanpoyner/mcp-tiny-agents)** - Lightweight agent implementations using MCP
 - **[MCP Sentiment](https://github.com/seanpoyner/mcp-sentiment)** - Sentiment analysis tools integrated with MCP
-- **[Gradio MCP Playground](https://github.com/seanpoyner/gradio-mcp-playground)** - Interactive UI for MCP experiments
 
 ### 📚 RAG & LLM Applications
 - **[CRAG LangGraph Demo](https://github.com/seanpoyner/CRAG_langgraph_DEMO)** - Corrective RAG implementation using LangGraph
